@@ -1,0 +1,16 @@
+D:\visual basic projects\Laboratorul 10\bin\Debug\Laboratorul 10.exe.config
+D:\visual basic projects\Laboratorul 10\bin\Debug\Laboratorul 10.exe
+D:\visual basic projects\Laboratorul 10\bin\Debug\Laboratorul 10.pdb
+D:\visual basic projects\Laboratorul 10\bin\Debug\Laboratorul 10.xml
+D:\visual basic projects\Laboratorul 10\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\visual basic projects\Laboratorul 10\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\visual basic projects\Laboratorul 10\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul 10.vbprojAssemblyReference.cache
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul_10.Form1.resources
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul_10.Resources.resources
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul 10.vbproj.GenerateResource.cache
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul 10.vbproj.CoreCompileInputs.cache
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul 10.vbproj.CopyComplete
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul 10.exe
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul 10.xml
+D:\visual basic projects\Laboratorul 10\obj\Debug\Laboratorul 10.pdb
